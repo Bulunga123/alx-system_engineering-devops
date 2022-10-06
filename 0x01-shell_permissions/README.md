@@ -8,3 +8,4 @@ James Bond task
 john doe task
 Task look on mirror
 directories task
+directories permision task
