@@ -1,0 +1,2 @@
+readme
+alias command
